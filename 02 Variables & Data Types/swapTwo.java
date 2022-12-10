@@ -1,5 +1,5 @@
 import java.util.*;
-
+// java program for the swapping two number
 public class swapTwo {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
