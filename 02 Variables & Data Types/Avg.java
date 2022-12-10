@@ -1,5 +1,5 @@
 import java.util.*;
-
+// writing java program for calculating average
 public class Avg {
     public static void main(String[] args) {
         // taking input 
