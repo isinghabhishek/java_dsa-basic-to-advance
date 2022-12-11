@@ -1,3 +1,5 @@
+// java program for calculating sum of two inputed numbers
+
 import java.util.*;
 
 public class inputSum {
