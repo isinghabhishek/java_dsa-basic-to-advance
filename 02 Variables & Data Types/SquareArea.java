@@ -1,4 +1,4 @@
-// writing function for calculating squares area in javaScipts
+// writing function for calculating squares area in java
 
 import java.util.*;
 public class SquareArea {
