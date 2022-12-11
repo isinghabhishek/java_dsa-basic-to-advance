@@ -1,5 +1,7 @@
 import java.util.*;
 
+// java program for multiplication of the floating values
+
 public class FloatProdct {
         public static void main(String[] args)
         {
