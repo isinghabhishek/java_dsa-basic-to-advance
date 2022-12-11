@@ -1,4 +1,4 @@
-// writing program for calculating area of Cicle in javascripts
+// writing program for calculating area of Cicle in java
 
 import java.util.*;
 
