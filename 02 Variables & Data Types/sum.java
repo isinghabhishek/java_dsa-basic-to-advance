@@ -1,3 +1,4 @@
+// Basic program of java(sum of Two number)
 public class sum {
     public static void main(String[] args) {
         int a = 10;
