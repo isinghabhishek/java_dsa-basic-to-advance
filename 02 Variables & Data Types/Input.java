@@ -1,3 +1,5 @@
+// java program for taking input from users
+
 import java.util.*;
 
 public class Input {

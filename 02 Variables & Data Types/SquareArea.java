@@ -1,3 +1,5 @@
+// writing function for calculating squares area in java
+
 import java.util.*;
 public class SquareArea {
     public static void main(String[] args) {
