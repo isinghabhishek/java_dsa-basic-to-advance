@@ -9,7 +9,7 @@ public class DataType {
         boolean var = false;
         System.out.println(var);
         
-        float price = 10.5;
+        float price = (float) 10.5;
         int number = 25;
         // long
         // double
