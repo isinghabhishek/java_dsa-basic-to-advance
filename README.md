@@ -22,8 +22,8 @@ This repo contains all my learning related to fundamentals of Java Programming l
 - [ArrayLists](https://github.com/isinghabhishek/java_dsa-basic-to-advance/tree/master/18%20ArrayLists)
 - [Linked Lists](https://github.com/isinghabhishek/java_dsa-basic-to-advance/tree/master/19%20LinkedLists)
 - [Stacks](https://github.com/isinghabhishek/java_dsa-basic-to-advance/tree/master/20%20Stacks) 
-- Queues
-- Greedy Algorithms
+- [Queues](https://github.com/isinghabhishek/java_dsa-basic-to-advance/tree/master/21%20Queues)
+- [Greedy Algorithms](https://github.com/isinghabhishek/java_dsa-basic-to-advance/tree/master/22%20Greedy%20Algorithms)
 - Binary Trees
 - Binary Search Trees
 - Heaps/Priority Queues
