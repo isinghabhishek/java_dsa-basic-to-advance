@@ -26,7 +26,7 @@ This repo contains all my learning related to fundamentals of Java Programming l
 - [Greedy Algorithms](https://github.com/isinghabhishek/java_dsa-basic-to-advance/tree/master/22%20Greedy%20Algorithms)
 - [Binary Trees](https://github.com/isinghabhishek/java_dsa-basic-to-advance/tree/master/23%20Binary%20Trees)
 - [Binary Search Trees](https://github.com/isinghabhishek/java_dsa-basic-to-advance/tree/master/24%20Binary%20Search%20Trees)
-- Heaps/Priority Queues
+- [Heaps/Priority Queues](https://github.com/isinghabhishek/java_dsa-basic-to-advance/tree/master/25%20Heaps)
 - Hashing 
 - Tries
 - Graphs
