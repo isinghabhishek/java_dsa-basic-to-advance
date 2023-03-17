@@ -27,8 +27,9 @@ This repo contains all my learning related to fundamentals of Java Programming l
 - [Binary Trees](https://github.com/isinghabhishek/java_dsa-basic-to-advance/tree/master/23%20Binary%20Trees)
 - [Binary Search Trees](https://github.com/isinghabhishek/java_dsa-basic-to-advance/tree/master/24%20Binary%20Search%20Trees)
 - [Heaps/Priority Queues](https://github.com/isinghabhishek/java_dsa-basic-to-advance/tree/master/25%20Heaps)
-- Hashing 
+- [Hashing](https://github.com/isinghabhishek/java_dsa-basic-to-advance/tree/master/26%20Hashing)
 - Tries
 - Graphs
 - Dynamic Programming
 - Segment Trees
+- Practice Question
