@@ -1,5 +1,6 @@
 # Java Programming with DSA_Basic_To_Advance
-This repo contains all my learning related to fundamentals of Java Programming language, and the Data Structures and Algorithm. Many of the Classical problems solution, and important algorithms explanation with algorithms problem examples solution. Java Data Structure and Algorithms
+- This contains all my learning related to fundamentals of Java Programming language, and the Data Structures and Algorithm. 
+- Many of the Classical problems solution, and important algorithms explanation with algorithms problem examples solution. Java Data Structure and Algorithms
 
 ## ALL TOPICS of JAVA PROGRAMMING LANGUAGE, and the DATA STRUCTURES and ALGORITHM are COVERED
 - [Flowcharts](https://github.com/isinghabhishek/java_dsa-basic-to-advance/tree/master/01%20Flowcharts) 
@@ -28,7 +29,7 @@ This repo contains all my learning related to fundamentals of Java Programming l
 - [Binary Search Trees](https://github.com/isinghabhishek/java_dsa-basic-to-advance/tree/master/24%20Binary%20Search%20Trees)
 - [Heaps/Priority Queues](https://github.com/isinghabhishek/java_dsa-basic-to-advance/tree/master/25%20Heaps)
 - [Hashing](https://github.com/isinghabhishek/java_dsa-basic-to-advance/tree/master/26%20Hashing)
-- Tries
+- [Tries](https://github.com/isinghabhishek/java_dsa-basic-to-advance/tree/master/27%20Tries)
 - Graphs
 - Dynamic Programming
 - Segment Trees
