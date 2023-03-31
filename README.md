@@ -33,4 +33,4 @@
 - Graphs
 - Dynamic Programming
 - Segment Trees
-- Practice Question
+- [Practice Question](https://github.com/isinghabhishek/java_dsa-basic-to-advance/tree/master/Practices)
