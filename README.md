@@ -30,7 +30,7 @@
 - [Heaps/Priority Queues](https://github.com/isinghabhishek/java_dsa-basic-to-advance/tree/master/25%20Heaps)
 - [Hashing](https://github.com/isinghabhishek/java_dsa-basic-to-advance/tree/master/26%20Hashing)
 - [Tries](https://github.com/isinghabhishek/java_dsa-basic-to-advance/tree/master/27%20Tries)
-- Graphs
+- [Graphs](https://github.com/isinghabhishek/java_dsa-basic-to-advance/tree/master/28%20Graphs)
 - Dynamic Programming
 - Segment Trees
 - [Practice Question](https://github.com/isinghabhishek/java_dsa-basic-to-advance/tree/master/Practices)
