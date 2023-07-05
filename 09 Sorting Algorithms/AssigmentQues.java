@@ -1,6 +1,5 @@
-import java.util.concurrent.ConcurrentHashMap;
 
-//   Use the following sorting algorithms tosort an array in DESCENDING order :
+// Use the following sorting algorithms to sort an array in DESCENDING order :
 // a.Bubble Sort
 // b.Selection Sort
 // c.Insertion Sort
@@ -9,6 +8,7 @@ import java.util.concurrent.ConcurrentHashMap;
 
 public class AssigmentQues {
 
+    // Bubble Sort
     public static void bubbleSort(int arr[]){
         // i = turns
         for(int i=0; i<arr.length-1; i++){
@@ -22,6 +22,7 @@ public class AssigmentQues {
         }
     }
 
+    // Selection Sort
     public static void selectionSort(int arr[]){
         for(int i=0; i<arr.length; i++){
             int minPos = i;
@@ -37,6 +38,7 @@ public class AssigmentQues {
         }
     }
 
+    // Insertion Sorting 
     public static void insertionSort(int arr[]){
         for(int i=0; i<arr.length; i++){
             int curr = arr[i];
@@ -50,6 +52,7 @@ public class AssigmentQues {
         }
     }
 
+    // Counting  Sort Array
     public static void countingSort(int arr[]){
         int largest = Integer.MIN_VALUE;
         for(int i=0; i<arr.length; i++){
@@ -70,6 +73,7 @@ public class AssigmentQues {
         }
     }
     
+    // printing Array Code
     public static void printArr(int arr[]){
         for(int i=0; i<arr.length; i++){
             System.out.print(arr[i]+" ");

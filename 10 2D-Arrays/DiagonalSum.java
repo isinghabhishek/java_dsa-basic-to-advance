@@ -18,7 +18,7 @@ public class DiagonalSum {
 
         // optimized Code- O(n)
         for(int i=0; i<matrix.length; i++){
-            // Primary Diagnol
+            // Primary Diagonal
             sum += matrix[i][i];
             // Secondary Diagonal
             if(i != matrix.length-1-i){

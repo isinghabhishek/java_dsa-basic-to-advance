@@ -1,6 +1,8 @@
 
 
 public class BubbleS {
+    
+    // Sorting Array Using Bubble Sort
     public static void bubbleSort(int arr[]){
 
         for(int turn=0; turn<arr.length-1; turn++){
