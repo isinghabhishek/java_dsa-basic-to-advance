@@ -31,6 +31,6 @@
 - [Hashing](https://github.com/isinghabhishek/java_dsa-basic-to-advance/tree/master/26%20Hashing)
 - [Tries](https://github.com/isinghabhishek/java_dsa-basic-to-advance/tree/master/27%20Tries)
 - [Graphs](https://github.com/isinghabhishek/java_dsa-basic-to-advance/tree/master/28%20Graphs)
-- Dynamic Programming
+- [Dynamic Programming](https://github.com/isinghabhishek/java_dsa-basic-to-advance/tree/master/29%20Dynamic%20Programming)
 - Segment Trees
 - [Practice Question](https://github.com/isinghabhishek/java_dsa-basic-to-advance/tree/master/Practices)
