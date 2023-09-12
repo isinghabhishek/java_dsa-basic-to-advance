@@ -1,5 +1,7 @@
 import java.util.*;
 
+// Programm for the Number Printing
+// Programs are the 
 public class NoPrinting {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

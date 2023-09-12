@@ -1,5 +1,6 @@
 import java.util.*;
 
+// logic for the for loop
 public class forLoop {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

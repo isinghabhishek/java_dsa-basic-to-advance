@@ -8,6 +8,7 @@ public class RemoveDuplicate {
             return;
         }
         char currChar = str.charAt(idx);
+        // for idx --> [currChar - 'a']
         if(map[currChar-'a'] == true){
             // Duplicate
             removeDuplicates(str, idx+1, newStr, map);
@@ -18,7 +19,7 @@ public class RemoveDuplicate {
     }
 
     public static void main(String[] args) {
-        String str = "appnnacollege";
+        String str = "abhiisxk";
         removeDuplicates(str, 0, new StringBuilder(""), new boolean[26]);
     }
     

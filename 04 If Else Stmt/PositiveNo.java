@@ -1,5 +1,6 @@
 import java.util.*;
 
+// checking where the given Number is positive or Not
 public class PositiveNo {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

@@ -1,5 +1,6 @@
 import java.util.*;
 
+// find factorial Of given Number Accordingly
 public class factorial {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

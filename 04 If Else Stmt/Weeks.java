@@ -1,5 +1,6 @@
 import java.util.*;
 
+// Switch Statements for Weeks
 public class Weeks {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

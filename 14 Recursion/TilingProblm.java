@@ -14,6 +14,7 @@ public class TilingProblm {
         // int totWays = fnm1 + fnm2;
         // return totWays;
 
+        // Directly without 
         // writing the above code in optimize way(BEST)
         return tilingProblem(n-1) + tilingProblem(n-2);
     }

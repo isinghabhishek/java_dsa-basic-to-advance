@@ -1,5 +1,6 @@
 import java.util.*;
 
+// writing logic for the Tax Calculation
 public class TaxCalculator {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

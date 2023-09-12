@@ -1,5 +1,6 @@
 import java.util.*;
 
+// writing Program to Apply the Break Condition
 public class breakL {
     public static void main(String[] args) {
         

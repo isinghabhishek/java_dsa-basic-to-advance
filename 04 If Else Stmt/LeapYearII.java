@@ -1,5 +1,6 @@
 import java.util.*;
 
+// checking where the given Year is Leap or Not.
 public class LeapYearII {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
