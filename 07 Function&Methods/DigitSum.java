@@ -1,4 +1,5 @@
 import java.util.Scanner;
+// writing program for converting Digital Sum.
 
 public class DigitSum {
     

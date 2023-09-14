@@ -1,5 +1,7 @@
 import java.util.*;
 
+// implementing the logic for Inputing the value from user and return sum.
+
 public class calculateSum {
 
     public static int SumCaculation(int num1, int num2){ //parameters or formal parameter

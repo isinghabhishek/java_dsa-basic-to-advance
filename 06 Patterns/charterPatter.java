@@ -1,5 +1,6 @@
 import java.util.*;
 
+// logic for A Character Pattern
 public class charterPatter {
     public static void main(String[] args) {
         

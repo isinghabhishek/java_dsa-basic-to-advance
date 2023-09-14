@@ -1,5 +1,6 @@
 
 import java.util.*;
+// writing program for Average Of three number
 public class Averg {
     
     public static void main(String[] args) {

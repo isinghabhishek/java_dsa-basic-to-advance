@@ -1,6 +1,8 @@
 
 public class BinToDec {
     
+    // implementing the logic for the Converting any Bin to Decimal
+    
     public static void binToDec(int binNum){
         int myNum = binNum;
         int powr=0;

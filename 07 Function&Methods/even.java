@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+// checking whether the inputed Number is Even or Not.
 public class  even {
     public static boolean isEven(int number){
         if(number%2 == 0){

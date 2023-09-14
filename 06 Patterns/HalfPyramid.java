@@ -1,4 +1,6 @@
 import java.util.*;
+
+// logic for the Half Pramid
 public class HalfPyramid {
     public static void main(String[] args) {
         

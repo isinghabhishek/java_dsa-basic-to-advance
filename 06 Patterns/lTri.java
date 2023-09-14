@@ -1,5 +1,6 @@
 import java.util.*;
 
+// progamming logic for Inverse Triangle
 public class lTri {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

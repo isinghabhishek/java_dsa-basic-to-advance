@@ -1,5 +1,6 @@
 import java.util.*;
 
+// pattern logic for Inverted Right Triangle
 public class InverRTri {
     public static void main(String[] args) {
         

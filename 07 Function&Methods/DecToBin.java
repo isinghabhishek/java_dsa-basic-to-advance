@@ -1,6 +1,7 @@
 
 public class DecToBin {
-    
+    // logic to convert the Decimal to Binary
+
     public static void decToBin(int n){
         int myNum = n;
         int powr=0;
