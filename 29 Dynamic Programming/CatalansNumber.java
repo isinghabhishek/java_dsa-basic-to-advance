@@ -2,9 +2,11 @@ import java.util.Arrays;
 
 public class CatalansNumber {
     public static int catalanRec(int n) {
+        // base Case
         if(n == 0 || n == 1) {
             return 1;
         }
+
         int ans = 0; // cn
         for(int i=0; i<=n-1; i++) {
             ans += catalanRec(i) * catalanRec(n-i-1);
@@ -13,6 +15,7 @@ public class CatalansNumber {
     }
     // Memoization
     public static int catalanMem(int n, int dp[]) {
+        // Base Case
         if(n == 0 || n == 1) return 1;
         if(dp[n] != -1) {
             return dp[n];
