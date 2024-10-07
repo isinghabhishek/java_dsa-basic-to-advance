@@ -1,5 +1,3 @@
-import java.rmi.StubNotFoundException;
-
 public class IsArrSorted {
 
     public static boolean isSorted(int arr[], int idx){
